@@ -1,8 +1,8 @@
 {
-  "showUpdate": false,
+  "showUpdate": true,
   "title": "🔔 New Update Available!",
   "message": "Please update the app to continue using it.",
   "buttonText": "Update Now",
-  "updateUrl": "https://youtu.be/Hm5KBStDzbw?si=W3vY3gOvgieez4Fz",
+  "updateUrl": "https://youtu.be/NIeEal5qJCU",
   "credit": "MR. NoOB"
 }
